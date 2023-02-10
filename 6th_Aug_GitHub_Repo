@@ -1,0 +1,16 @@
+package Demo1;
+
+public class Test2 
+{
+	public static void main(String[] args) 
+	{
+		
+		String S1="5000";
+		
+		int V=Integer.parseInt(S1);
+		
+		System.out.println(V);
+		
+	}
+
+}
